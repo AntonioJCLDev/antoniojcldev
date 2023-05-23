@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### My name is Antonio and I'm a frotend development student from Gran Canaria, Spain.
+
+- 🌱 I’m currently learning JS
+- 😄 Pronouns: HE/HIM
+
 <!--
 **AntonioJCLDev/antoniojcldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
