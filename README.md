@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Antonio and I'm a frontend development student from Gran Canaria, Spain.
+### My name is Antonio and I'm a junior Front-End developer from Gran Canaria, Spain.
 
 - 🌱 I’m currently learning JS
 - 😄 Pronouns: HE/HIM
