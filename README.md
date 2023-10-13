@@ -2,7 +2,7 @@
 
 ### My name is Antonio and I'm a junior Front-End developer from Gran Canaria, Spain.
 
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning VUE.JS
 - 😄 Pronouns: HE/HIM
 
 <!--
